@@ -22,7 +22,7 @@
 
 | № | Источник |
 |--|--|
-| 1 | https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt |
+| 1 | https://raw.githubusercontent.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt |
 | 2 | https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt |
 | 3 | https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt |
 | 4 | https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt |
