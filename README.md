@@ -1,6 +1,10 @@
-# Обход белого списка от #РКП
+# Обход белого списка от #РКП 
+
+ТГК: @RKP_channel
+
 Сборник ссылок с конфигурациями для обхода белого списка в России.
 
+---
 # ИНФОРМАЦИЯ
 МАТЕРИАЛ ПРЕДНАЗНАЧЕН ДЛЯ ОЗНАКОМЛЕНИЯ И НЕ ПРИЗЫВАЕТ К ДЕЙСТВИЯМ!
 
@@ -71,6 +75,9 @@
 | 34 | CidVPN | https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt |
 | 35 | GoogbyeWL | https://s3c3.001.gpucloud.ru/dixsm/htxml |
 | 36 | LiVPN | http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b |
- 
-# Поддержать автора
+
+Если у вас возникли вопросы или что-то пошло не так, напишите в Telegram: @RKP_group
+
+---
+## Поддержать автора
 + **Т-Банк**: `2200 7007 0189 5244`
