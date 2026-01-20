@@ -66,15 +66,14 @@
 | 25 | NotorVPN | https://raw.githubusercontent.com/Ai123999/7Sand/refs/heads/main/7Sand_Notorgamers |
 | 26 | NotorVPN | https://raw.githubusercontent.com/Ai123999/5Frid/refs/heads/main/5Frid_Notorgamers |
 | 27 | Matryoshka | https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/main/configs/russia_whitelist.txt |
-| 28 | ByWarm | https://raw.githubusercontent.com/bywarm/whitelists-vpns-etc/refs/heads/main/whitelists1-4pda.txt |
-| 29 | DarkFirexs | https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass_VPN/refs/heads/main/Whitelist%20%7C%20VPN |
-| 30 | Неизвестно | https://boost.vmelectronics.ru/sub/e6b085ba-92b9-461b-9bfa-245b9a47877a |
-| 31 | wlrustg | https://wlr.s3-website.cloud.ru/zNhbYZtBc |
-| 32 | wlrustg | https://bp.wl.free.nf/confs/selected.txt |
-| 33 | wlrustg | https://bp.wl.free.nf/confs/wl.txt |
-| 34 | CidVPN | https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt |
-| 35 | GoodbyeWL | https://s3c3.001.gpucloud.ru/dixsm/htxml |
-| 36 | LiVPN | http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b |
+| 28 | DarkFirexs | https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass_VPN/refs/heads/main/Whitelist%20%7C%20VPN |
+| 29 | Неизвестно | https://boost.vmelectronics.ru/sub/e6b085ba-92b9-461b-9bfa-245b9a47877a |
+| 30 | wlrustg | https://wlr.s3-website.cloud.ru/zNhbYZtBc |
+| 31 | wlrustg | https://bp.wl.free.nf/confs/selected.txt |
+| 32 | wlrustg | https://bp.wl.free.nf/confs/wl.txt |
+| 33 | CidVPN | https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt |
+| 34 | GoodbyeWL | https://s3c3.001.gpucloud.ru/dixsm/htxml |
+| 35 | LiVPN | http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b |
 
 💬 Если у вас возникли вопросы; если хотите отправить свои ссылки с конфигурациями; что-то пошло не так; напишите в Telegram: **@RKP_group**
 
