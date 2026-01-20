@@ -73,7 +73,7 @@
 | 32 | wlrustg | https://bp.wl.free.nf/confs/selected.txt |
 | 33 | wlrustg | https://bp.wl.free.nf/confs/wl.txt |
 | 34 | CidVPN | https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt |
-| 35 | GoogbyeWL | https://s3c3.001.gpucloud.ru/dixsm/htxml |
+| 35 | GoodbyeWL | https://s3c3.001.gpucloud.ru/dixsm/htxml |
 | 36 | LiVPN | http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b |
 
 Если у вас возникли вопросы или что-то пошло не так, напишите в Telegram: @RKP_group
