@@ -28,7 +28,7 @@
 
 ## 👾 Ниже вы найдёте мою сборку конфигов, которые были составлены из таблицы, попробуйте её в первую очередь.
 
-https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/%D0%A2%D0%93%D0%9A%3A%20%40RKP_channel?token=GHSAT0AAAAAADTRMDRSHJSM3ZLTYY5AP2LQ2LQCYFA
+https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/TG%3A%20%40RKP_channel?token=GHSAT0AAAAAADTRMDRT7ONR5O36YMXYHOGA2LQC2RA
 
 ❓ Как импортировать конфиги в VPN Клиент?
 1. Скопируйте ссылку **выше** в буфер обмена.
