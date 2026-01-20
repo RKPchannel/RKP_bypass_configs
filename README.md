@@ -1,7 +1,7 @@
 # Обход белого списка от #РКП
 Сборник ссылок с конфигурациями для обхода белого списка в России.
 
-# ИНФОРМАЦИЯ ДЛЯ ОЗНАКОМЛЕНИЯ
+# ИНФОРМАЦИЯ
 МАТЕРИАЛ ПРЕДНАЗНАЧЕН ДЛЯ ОЗНАКОМЛЕНИЯ И НЕ ПРИЗЫВАЕТ К ДЕЙСТВИЯМ!
 
 ССЫЛКИ ВЗЯТЫ ИЗ ОТКРЫТЫХ ИСТОЧНИКОВ ЛЕГАЛЬНЫМИ МЕТОДАМИ В СЕТИ ИНТЕРНЕТ.
@@ -10,49 +10,67 @@
 
 Конфигурации автоматически обновляются.
 
-Каждая ссылка — это TXT-подписка, которую можно импортировать практически в любой современный клиент (V2rayNG, NekoRay, Exclave, Happ, GoldV2ray, V2RayTun, Throne, V2rayN и др.)
+Каждая ссылка — это TXT-подписка, которую можно импортировать в любой современный VPN клиент (V2rayNG, NekoRay, Exclave, Happ, GoldV2ray, V2RayTun, Throne, V2rayN и др.)
 
-## Как импортировать конфиги в VPN Клиент?
-1. Скопируйте нужную ссылку из раздела **«URL-ссылки»**.  
+При создании этого материала все ссылки ниже были проверены на работоспособность при белых списках.
+
+Работоспособность конфигураций в приграничных территориях, а также на территориях боевых действий НЕ ГАРАНТИРУЕТСЯ!
+
+## Для правильной проверки работы конфигураций на Android, отключите персональный DNS-Сервер в настройках вашего устройства.
+> **Настройки > Сеть и инетрнет > Персональный DNS-Сервер > Выберите пункт "Отключён" или "Автоматически".**
+
+> (Название пунктов может отличаться от указанной)
+
+
+## Ниже вы найдёте мою сборку конфигов, которые были составлены из таблицы ниже, попробуйте её в первую очередь.
+моя ссылка
+
+Как импортировать конфиги в VPN Клиент?
+1. Скопируйте ссылку **выше** в буфер обмена.
 2. Импортируйте её в ваш **VPN-клиент**.
 3. Выберите сервер с минимальным пингом и подключайтесь.
 
-## URL-ссылки
+Если моя сборка конфигураций у вас не заработала, попробуйте проверить другие конфиги из таблицы.
 > **Копируйте ссылки в ваш VPN Клиент**
 
-| № | Источник |
-|--|--|
-| 1 | https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt |
-| 2 | https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt |
-| 3 | https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt |
-| 4 | https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt |
-| 5 | https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt |
-| 6 | https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_RAW.txt |
-| 7 | https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/trojan.txt |
-| 8 | https://raw.githubusercontent.com/YasserDivaR/pr0xy/refs/heads/main/ShadowSocks2021.txt |
-| 9 | https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt |
-| 10 | https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/vless |
-| 11 | https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/mixed_iran.txt |
-| 12 | https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/all |
-| 13 | https://github.com/Kwinshadow/TelegramV2rayCollector/raw/refs/heads/main/sublinks/mix.txt |
-| 14 | https://github.com/LalatinaHub/Mineral/raw/refs/heads/master/result/nodes |
-| 15 | https://raw.githubusercontent.com/miladtahanian/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt |
-| 16 | https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub |
-| 17 | https://github.com/MhdiTaheri/V2rayCollector_Py/raw/refs/heads/main/sub/Mix/mix.txt |
-| 18 | https://github.com/Epodonios/v2ray-configs/raw/main/Splitted-By-Protocol/vmess.txt |
-| 19 | https://github.com/MhdiTaheri/V2rayCollector/raw/refs/heads/main/sub/mix |
-| 20 | https://github.com/Argh94/Proxy-List/raw/refs/heads/main/All_Config.txt |
-| 21 | https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt |
-| 22 | https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri |
-| 23 | https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt |
-| 24 | https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS%F0%9F%91%BE |
-| 25 | https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt |
-| 26 | https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt |
-
-
-
-
-
-
+| № | Автор | Источник |
+|--|--|--|
+| 1 | Rjsxrd | https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt |
+| 2 | EtoNeYaProject | https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/1 |
+| 3 | Bypass | http://fsub.flux.2bd.net/githubmirror/bypass/bypass-all.txt |
+| 4 | zieng2 | https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt |
+| 5 | zieng2 | https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt |
+| 6 | igareck | https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt |
+| 7 | sakha1370 | https://github.com/sakha1370/OpenRay/raw/refs/heads/main/output/all_valid_proxies.txt |
+| 8 | sevcator | https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt |
+| 9 | yitong2333 | https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt |
+| 10 | miladtahanian | https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt |
+| 11 | AvenCores | https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/6.txt |
+| 12 | mohammedfg | https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt |
+| 13 | mineral | https://github.com/LalatinaHub/Mineral/raw/refs/heads/master/result/nodes |
+| 14 | AvenCores | https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/22.txt |
+| 15 | AvenCores | https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/23.txt |
+| 16 | AvenCores | https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/24.txt |
+| 17 | AvenCores | https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/25.txt |
+| 18 | AvenCores | https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt |
+| 19 | officialdakari | https://raw.githubusercontent.com/officialdakari/psychic-octo-tribble/refs/heads/main/subwl.txt |
+| 20 | SER38Off | https://raw.githubusercontent.com/SER38Off/happ-subscription/refs/heads/main/all-servers.txt |
+| 21 | NotorVPN | https://raw.githubusercontent.com/Ai123999/WhiteeListSub/refs/heads/main/whitelistkeys |
+| 22 | NotorVPN | https://raw.githubusercontent.com/Ai123999/6Satu/refs/heads/main/6Satu_Notorgamers |
+| 23 | NotorVPN | https://raw.githubusercontent.com/Ai123999/1Mond/refs/heads/main/1Mond_Notorgamers |
+| 24 | NotorVPN | https://raw.githubusercontent.com/Ai123999/3Wend/refs/heads/main/3Wend_Notorgamers |
+| 25 | NotorVPN | https://raw.githubusercontent.com/Ai123999/7Sand/refs/heads/main/7Sand_Notorgamers |
+| 26 | NotorVPN | https://raw.githubusercontent.com/Ai123999/5Frid/refs/heads/main/5Frid_Notorgamers |
+| 27 | Matryoshka | https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/main/configs/russia_whitelist.txt |
+| 28 | ByWarm | https://raw.githubusercontent.com/bywarm/whitelists-vpns-etc/refs/heads/main/whitelists1-4pda.txt |
+| 29 | DarkFirexs | https://raw.githubusercontent.com/DarkFirexs/Whitelist-bypass_VPN/refs/heads/main/Whitelist%20%7C%20VPN |
+| 30 | Неизвестно | https://boost.vmelectronics.ru/sub/e6b085ba-92b9-461b-9bfa-245b9a47877a |
+| 31 | wlrustg | https://wlr.s3-website.cloud.ru/zNhbYZtBc |
+| 32 | wlrustg | https://bp.wl.free.nf/confs/selected.txt |
+| 33 | wlrustg | https://bp.wl.free.nf/confs/wl.txt |
+| 34 | CidVPN | https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt |
+| 35 | GoogbyeWL | https://s3c3.001.gpucloud.ru/dixsm/htxml |
+| 36 | LiVPN | http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b |
+ 
 # Поддержать автора
 + **Т-Банк**: `2200 7007 0189 5244`
