@@ -76,7 +76,7 @@
 | 35 | GoodbyeWL | https://s3c3.001.gpucloud.ru/dixsm/htxml |
 | 36 | LiVPN | http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b |
 
-Если у вас возникли вопросы или что-то пошло не так, напишите в Telegram: **@RKP_group**
+Если у вас возникли вопросы; если хотите отправить свои ссылки с конфигурациями; что-то пошло не так; напишите в Telegram: **@RKP_group**
 
 ---
 ## Поддержать автора
