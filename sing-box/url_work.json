@@ -19434,29 +19434,6 @@
         "service_name": "",
         "host": ""
       }
-    },
-    {
-      "type": "vless",
-      "tag": "TCP%2C%20Max%20%5B%23%D0%A0%D0%9A%D0%9F%5D",
-      "server": "95.163.210.173",
-      "server_port": 443,
-      "uuid": "72adc5b8-146a-4bfe-921b-5c9e1df016e0",
-      "flow": "xtls-rprx-vision",
-      "tls": {
-        "enabled": true,
-        "server_name": "max.ru",
-        "reality": {
-          "enabled": true,
-          "public_key": "FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg",
-          "short_id": "a76ea384b29a4f79"
-        }
-      },
-      "transport": {
-        "type": "tcp",
-        "path": "",
-        "service_name": "",
-        "host": ""
-      }
     }
   ],
   "subscription-userinfo": {
