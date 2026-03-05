@@ -4,7 +4,6 @@
 #announce: Свобода заключается в смелости!
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5B%23%D0%A0%D0%9A%D0%9F%5D
 vless://89c8f8a0-a98c-4091-b91b-f57d228afd29@51.250.64.246:444?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=chrome&pbk=7x07TcG4qOb1iSDB8KfdPdu9kZSlgQNzoEH0D1CpjGQ&sid=eeaaae5d951ddea3&type=grpc&authority=&serviceName=grpc&mode=gun#gRPC%2C%20%D0%9F%D1%8F%D1%82%D1%91%D1%80%D0%BE%D1%87%D0%BA%D0%B0%20%5B%23%D0%A0%D0%9A%D0%9F%5D
 vless://8409d5d2-ae02-4027-b5a5-c3cca340ca6c@109.120.188.140:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=Us7U978Q2jZwoEFoPxkv-fR1A4N0ehZVX_T9KwzXH3s&sid=f69d7af6d5fc3e0c#TCP%2C%20Max%20%5B%23%D0%A0%D0%9A%D0%9F%5D
 vless://8409d5d2-ae02-4027-b5a5-c3cca340ca6c@37.139.34.237:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=chrome&security=reality&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&sid=cfdbaa7f996dd0e9#TCP%2C%20VK%20%5B%23%D0%A0%D0%9A%D0%9F%5D
