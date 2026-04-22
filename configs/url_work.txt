@@ -1,7 +1,7 @@
 #profile-title: #РКП
 #profile-update-interval: 1
 #support-url: https://t.me/RKP_channel
-#announce: Свобода заключается в смелости! Использовать ТОЛЬКО при белом списке.
+#announce: Свобода заключается в смелости! Использовать при белом списке. #СвободаИнтернету
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
 vless://613ec6b1-be75-487d-a5e9-713471a2a2da@f-eu3.powerhost.pro:443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=KNJVnH7B-1BAb9z5DW9vgQ_XHMGdEop0_WzbfhXFoHI&sid=a60d3a8e9039648f&type=xhttp#Reality%2C%20VK%20%5B%23%D0%A0%D0%9A%D0%9F%5D
