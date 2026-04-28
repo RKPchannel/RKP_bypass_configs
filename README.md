@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/
 | **Karing** | iOS / macOS / Windows | [Официальный сайт](https://karing.app) |
 | **Nekobox** | Android | [GitHub (Релизы)](https://github.com/Ohayo18/NekoBoxForAndroid/releases) |
 | **v2Box** | iOS / Android | [App Store](https://apps.apple.com/hr/app/v2box-v2ray-client/id6446814690) / [Google Play](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box) |
-| **Happ** | Все платформы | [GitHub (Релизы)](https://github.com/Happ-proxy/happ-desktop/releases) |
+| **Happ** | Все платформы | [GitHub (Релизы)](https://github.com/Happ-proxy) |
 | **Throne** | Windows / Linux / macOS | [GitHub (Релизы)](https://github.com/throneproj/Throne/releases) |
 | **v2RayN** | Windows / Linux / macOS | [GitHub (Релизы)](https://github.com/2dust/v2rayN/releases) |
 | **Nekoray** | Windows / Linux / macOS | [GitHub (Релизы)](https://github.com/lzlv312/nekoray/releases) |
