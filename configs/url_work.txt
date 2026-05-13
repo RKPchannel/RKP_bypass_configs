@@ -3,3 +3,5 @@
 #support-url: https://t.me/RKP_channel
 #announce: ПОДПИСКА НА ДАННЫЙ МОМЕНТ НЕ РАБОТАЕТ! ПРОЧИТАЙТЕ ПОСТ В КАНАЛЕ: @RKP_channel
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
+
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cl-ru-tw.fastaichat.ru:52006?flow=xtls-rprx-vision&security=tls&seq=0484&sni=cl-ru-tw.fastaichat.ru&type=tcp#Конфиги съели модераторы Кибернасрала
