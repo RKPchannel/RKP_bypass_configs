@@ -1,5 +1,11 @@
-vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@89.208.97.95:443?type=tcp&headerType=none&security=reality&encryption=none&sni=amazon.fr&fp=firefox&pbk=OhHt4eEk9pZVzDpt37apm_7DRM0qP6_D4yJBCK0n02A&sid=5701e710c025b4b8&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+#profile-title: 🏳 #РосКомПозор | Белые списки [Бета]
+#profile-update-interval: 1
+#support-url: https://t.me/RKP_channel
+#announce: Свобода заключается в смелости! ⚠️ - Небезопасные. Используйте на страх и риск! #СвободаИнтернету!
+#subscription-userinfo: upload=0; download=0; total=0; expire=0
+
 vless://14fcbcd4-2c96-4c30-b3ca-2e87ea8918d7@188.114.97.6:80?encryption=none&security=none&type=ws&host=app3.app-all-ccoo.com&path=%2Fws-vlees#%E2%9A%A0%EF%B8%8F%20%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+vless://e96ffcc1-5acf-4e24-9b67-1b736a2f1c24@89.208.97.95:443?type=tcp&headerType=none&security=reality&encryption=none&sni=amazon.fr&fp=firefox&pbk=OhHt4eEk9pZVzDpt37apm_7DRM0qP6_D4yJBCK0n02A&sid=5701e710c025b4b8&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
 vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@213.219.212.61:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%8C%90%20%D0%9D%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE%20%5B%23%D0%A0%D0%9A%D0%9F%5D
 vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.219.56:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn2.swaginozip.fun&fp=firefox&pbk=EIlnBMyH--EIasnzGPJAAFSP5WM_4FNU4ktFUQI0O00&sid=a13edee689fca1da&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%5B%23%D0%A0%D0%9A%D0%9F%5D
 vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@144.31.241.7:8443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=kt-3Y5U6yLWiLB_RijhceKo01lYAVosWRZbhS05YpCY&sni=yourcloud.ldtp.com&sid=7d6203949764f921&fp=safari#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%5B%23%D0%A0%D0%9A%D0%9F%5D
