@@ -1,7 +1,0 @@
-#profile-title: #РКП - #РосКомПозор
-#profile-update-interval: 24
-#support-url: https://t.me/RKP_channel
-#announce: ПОДПИСКА НА ДАННЫЙ МОМЕНТ НЕ РАБОТАЕТ! ПРОЧИТАЙТЕ ПОСТ В КАНАЛЕ: @RKP_channel
-#subscription-userinfo: upload=0; download=0; total=0; expire=0
-
-vless://fb89a947-0d5b-43b2-982e-20b89d48d161@51.250.96.237:443?encryption=none&fp=chrome&pbk=Hwodw89GLba65CMpzNVcUycU9n25tBZOOIlPZcwEk0o&security=reality&sid=cc015aacdfd7cfd7&sni=ads.x5.ru&type=grpc#Конфиги съели модераторы Кибернасрала
