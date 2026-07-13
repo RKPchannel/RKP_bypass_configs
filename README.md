@@ -85,10 +85,8 @@ https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/
 | **Carton** | Windows, Linux | [GitHub](https://github.com/821869798/carton) |
 | **Kitsune Connect** | Windows | [GitHub](https://github.com/Tawreos228/Kitsune-Connect) |
 | **NeonV** | Windows | [GitHub](https://github.com/Hayashi-xz/NeonV) |
-| **Throne** | Windows, Linux, macOS | [GitHub (Релизы)](https://github.com/throneproj/Throne/releases) |
-| **Nekoray** | Windows, Linux, macOS | [GitHub (Релизы)](https://github.com/lzlv312/nekoray/releases) |
+| **Throne** | Windows, Linux, macOS | [GitHub](https://github.com/throneproj/Throne) |
 | **Bobcat Proxy** | Linux | [GitHub](https://github.com/STBobcat/Bobcat-Proxy-xray) |
-| **V2RayMacOS** | macOS | [GitHub (Релизы)](https://github.com/devrx5/V2RayMacOS/releases) |
 
 ---
 # 📋 #RKP_Parser4.0.py - Софт для отбора конфигураций.
