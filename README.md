@@ -45,20 +45,50 @@ https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/
 
 | Клиент | Лучше всего для… | Источник для скачивания |
 | :--- | :--- | :--- |
-| **v2RayNG** | Android | [GitHub (Релизы)](https://github.com/2dust/v2rayNG/releases) |
-| **Hiddify** | Все платформы | [Официальный сайт](https://hiddify.com) |
+| **Anywhere Proxy** | Android, iOS, macOS, iPadOS, visionOS, tvOS, watchOS | [App Store](https://apps.apple.com/tr/app/anywhere-proxy/id6758235178) |
+| **Bettbox** | Android, Windows, macOS, Linux (также Android TV, HarmonyOS NEXT) | [GitHub](https://github.com/appshubcc/Bettbox) |
+| **Husi** | Android, Windows, macOS, Linux | [GitHub](https://github.com/xchacha20-poly1305/husi) |
+| **XrayFA** | Android | [GitHub](https://github.com/Q7DF1/XrayFA) |
+| **FlClash** | Android | [GitHub](https://github.com/chen08209/FlClash) |
+| **Clash Mi** | Все платформы (Android, iOS, macOS, Windows, Linux, Android TV) | [Официальный сайт](https://clashmi.app/download) |
+| **AsteriskNG** | Android (Magisk-модуль) | [GitHub](https://github.com/Asterisk4Magisk/AsteriskNG) |
+| **LxBox** | Android | [GitHub](https://github.com/Leadaxe/LxBox) |
+| **FlClashX** | Android, Windows, macOS, Linux (также Android TV) | [GitHub](https://github.com/pluralplay/FlClashX) |
+| **Happwner** | Android | [GitHub](https://github.com/Omegaplexx/Happwner) |
+| **WINGS V** | Android | [GitHub](https://github.com/WINGS-N/WINGSV) |
+| **YPtun (olcvpn-client)** | Android | [GitHub](https://github.com/yanisplugg/olcvpn-client) |
+| **NetProxy-Magisk** | Android (Magisk) | [GitHub](https://github.com/XeonDead/NetProxy-Magisk) |
+| **INCY** | Android, iOS, macOS (также Android TV, Apple TV) | [GitHub](https://github.com/INCY-DEV/incy-platforms) |
+| **MikuBox** | Android | [GitHub](https://github.com/HatsuneMikuUwU/MikuBoxForAndroid) |
+| **Nekobox+** | Android | [4pda](https://4pda.to/forum/index.php?showtopic=1121122) |
+| **olcng** | Android | [GitHub](https://github.com/openlibrecommunity/olcng) |
+| **v2rayNG** | Android | [GitHub (Релизы)](https://github.com/2dust/v2rayNG/releases) |
+| **Hiddify** | Все платформы (Android, iOS, macOS, Windows, Linux) | [Официальный сайт](https://hiddify.com) |
 | **Exclave** | Android | [GitHub (Релизы)](https://github.com/dyhkwong/Exclave/releases) |
-| **Karing** | iOS / macOS / Windows | [Официальный сайт](https://karing.app) |
-| **v2Plus** | Android | [Официальный сайт](https://yaenot.xyz/) |
-| **Nekobox** | Android | [GitHub (Релизы)](https://github.com/Ohayo18/NekoBoxForAndroid/releases) |
-| **v2Box** | iOS / Android | [App Store](https://apps.apple.com/hr/app/v2box-v2ray-client/id6446814690) / [Google Play](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box) |
-| **Happ** | Все платформы | [GitHub (Релизы)](https://github.com/Happ-proxy) |
-| **Throne** | Windows / Linux / macOS | [GitHub (Релизы)](https://github.com/throneproj/Throne/releases) |
-| **v2RayN** | Windows / Linux / macOS | [GitHub (Релизы)](https://github.com/2dust/v2rayN/releases) |
-| **Nekoray** | Windows / Linux / macOS | [GitHub (Релизы)](https://github.com/lzlv312/nekoray/releases) |
-| **Streisand** | iOS / macOS | [App Store](https://apps.apple.com/it/app/streisand/id6450534064) |
-| **V2RayXS** | macOS | [GitHub (Релизы)](https://github.com/devrx5/V2RayMacOS/releases) |
-| **v2RayA** | Linux (серверы/роутеры) | [Официальный сайт](https://v2raya.org) |
+| **Karing** | Все платформы (Android, iOS, macOS, Windows, Linux) | [Официальный сайт](https://karing.app) |
+| **V2Plus** | Android, Windows | [Официальный сайт](https://yaenot.xyz) |
+| **NekoBox** | Android | [GitHub (Релизы)](https://github.com/Ohayo18/NekoBoxForAndroid/releases) |
+| **V2Box** | Android, iOS, macOS | [App Store](https://apps.apple.com/hr/app/v2box-v2ray-client/id6446814690) / [Google Play](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box) |
+| **Happ** | Все платформы (Android, iOS, Windows, macOS, Linux) | [GitHub (организация)](https://github.com/Happ-proxy) |
+| **Everywhere Proxy** | iOS, macOS, iPadOS, visionOS | [App Store](https://apps.apple.com/tr/app/everywhere-proxy/id6766003090) |
+| **Nextin** | iOS, macOS, iPadOS, visionOS, tvOS | [App Store](https://apps.apple.com/tr/app/nextin/id6754002454) |
+| **Shadowrocket** | iOS, macOS, iPadOS, visionOS, tvOS | [App Store](https://apps.apple.com/tr/app/shadowrocket/id932747118) |
+| **Streisand** | iOS, macOS | [App Store](https://apps.apple.com/it/app/streisand/id6450534064) |
+| **Pandora-Box** | Windows, macOS, Linux | [GitHub](https://github.com/snakem982/Pandora-Box) |
+| **Clash Party** | Windows, macOS, Linux | [GitHub](https://github.com/mihomo-party-org/clash-party) |
+| **NekoBox (десктоп)** | Windows, Linux | [GitHub](https://github.com/qr243vbi/nekobox) |
+| **VeilBox** | Windows, macOS | [GitHub](https://github.com/artem4150/VeilBox) |
+| **v2rayN** | Windows, macOS, Linux | [GitHub (Релизы)](https://github.com/2dust/v2rayN/releases) |
+| **Clash Verge Rev** | Windows, macOS, Linux | [GitHub](https://github.com/clash-verge-rev/clash-verge-rev) |
+| **Oblivion Desktop** | Windows, macOS, Linux | [GitHub](https://github.com/bepass-org/oblivion-desktop) |
+| **Sing-Box Launcher** | Windows, macOS, Linux | [GitHub](https://github.com/Leadaxe/singbox-launcher) |
+| **Carton** | Windows, Linux | [GitHub](https://github.com/821869798/carton) |
+| **Kitsune Connect** | Windows | [GitHub](https://github.com/Tawreos228/Kitsune-Connect) |
+| **NeonV** | Windows | [GitHub](https://github.com/Hayashi-xz/NeonV) |
+| **Throne** | Windows, Linux, macOS | [GitHub (Релизы)](https://github.com/throneproj/Throne/releases) |
+| **Nekoray** | Windows, Linux, macOS | [GitHub (Релизы)](https://github.com/lzlv312/nekoray/releases) |
+| **Bobcat Proxy** | Linux | [GitHub](https://github.com/STBobcat/Bobcat-Proxy-xray) |
+| **V2RayMacOS** | macOS | [GitHub (Релизы)](https://github.com/devrx5/V2RayMacOS/releases) |
 
 ---
 # 📋 #RKP_Parser4.0.py - Софт для отбора конфигураций.
