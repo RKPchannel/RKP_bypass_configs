@@ -1,6 +1,7 @@
 #profile-title: 🏳 #РосКомПозор | Белые списки
 #profile-update-interval: 2
 #support-url: https://t.me/RKP_channel
+#icon-url: https://github.com/RKPchannel/RKP_bypass_configs/blob/main/photo_2025-12-27_23-47-35.jpg
 #announce: Свобода заключается в смелости! #СвободаИнтернету!
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
