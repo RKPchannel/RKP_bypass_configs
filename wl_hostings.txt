@@ -1,0 +1,51 @@
+57494	Adman
+198610	Beget
+57363	CDNvideo
+12616	Citytelecom
+3175	Citytelecom
+9032	Citytelecom
+208677	Cloud.ru
+48989	Cluster
+21030	Cluster
+57724	DDOS-GUARD
+59627	Docker
+210756	EdgeCenter
+210079	EuroByte
+48018	Fornex Hosting S.L.
+204720	Global Cloud Network
+51115	HLL
+43362	Hosting
+29182	IOT
+204490	Kontel
+25532	MASTERHOST
+31133	MegaFon
+202804	MegaFon
+8263	MegaFon
+214822	MT FINANCE
+8359	MTS
+60490	MTS
+209024	MTS
+216334	New Hosting Technologies
+39561	REG.RU
+197695	REG.RU
+25490	Rostelecom
+12389	Rostelecom
+8675	Rostelecom
+34205	Rostelecom
+44467	Rostelecom
+50340	Selectel
+49505	Selectel
+56694	Smart Ape
+44112	SpaceWeb
+61400	Start2
+43298	Storm Networks
+202984	Team-Host
+9123	Timeweb
+20485	TransTeleCom
+33993	UFO Hosting
+3216	Vimpelcom
+8350	Vimpelcom
+47764	VK
+28709	VK
+200350	Yandex.Cloud
+215013	Yandex.Cloud
