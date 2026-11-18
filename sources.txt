@@ -3531,8 +3531,6 @@ https://raw.githubusercontent.com/R3ZARAHIMI/tg-v2ray-configs-every2h/main/Confi
 https://raw.githubusercontent.com/R3ZARAHIMI/tg-v2ray-configs-every2h/main/Original-Configs.txt
 https://raw.githubusercontent.com/R3ZARAHIMI/tg-v2ray-configs-every2h/main/conf-week.txt
 https://raw.githubusercontent.com/R3ZARAHIMI/tg-v2ray-configs-every2h/main/no_cf_history.json
-https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/main/blacklist.txt
-https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/main/whitelist.txt
 https://raw.githubusercontent.com/RUNEX-RNX/VPN/main/AutoServer
 https://raw.githubusercontent.com/Rayan-Config/C-Sub/main/configs/proxy.txt
 https://raw.githubusercontent.com/Remiuc0ff/vpn-hiddifycode/main/allhiddifyvpn
