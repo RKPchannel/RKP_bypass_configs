@@ -1,51 +1,253 @@
-57494	Adman
-198610	Beget
-57363	CDNvideo
-12616	Citytelecom
 3175	Citytelecom
-9032	Citytelecom
-208677	Cloud.ru
-48989	Cluster
-21030	Cluster
-57724	DDOS-GUARD
-59627	Docker
-210756	EdgeCenter
-210079	EuroByte
-48018	Fornex Hosting S.L.
-204720	Global Cloud Network
-51115	HLL
-43362	Hosting
-29182	IOT
-204490	Kontel
-25532	MASTERHOST
-31133	MegaFon
-202804	MegaFon
-8263	MegaFon
-214822	MT FINANCE
-8359	MTS
-60490	MTS
-209024	MTS
-216334	New Hosting Technologies
-39561	REG.RU
-197695	REG.RU
-25490	Rostelecom
-12389	Rostelecom
-8675	Rostelecom
-34205	Rostelecom
-44467	Rostelecom
-50340	Selectel
-49505	Selectel
-56694	Smart Ape
-44112	SpaceWeb
-61400	Start2
-43298	Storm Networks
-202984	Team-Host
-9123	Timeweb
-20485	TransTeleCom
-33993	UFO Hosting
 3216	Vimpelcom
+3284	ServiceCloud
+5537	RU-CENTER
+6903	Astra Cloud
+8263	МегаФон
 8350	Vimpelcom
-47764	VK
+8359	МТС
+8675	Rostelecom
+9032	Citytelecom
+9111	Relcom Host
+9123	Timeweb
+12314	TeslaTel
+12389	Ростелеком
+12616	Citytelecom
+16262	Datacheap
+16301	Ростелеком
+16321	Petersburg Internet Network (PIN VDS)
+20485	TransTeleCom
+20919	DataFort
+21030	Cluster
+24774	3data
+25490	Rostelecom
+25532	Masterhost
+25537	RU-CENTER
 28709	VK
+28762	Citytelecom
+29076	Citytelecom
+29182	IOT
+30943	Web Hosting
+30968	Astra Cloud
+31133	MegaFon
+31240	Citytelecom
+33842	Citytelecom
+33962	Citytelecom
+33972	Masterhost
+33993	UFO Hosting
+34205	Rostelecom
+34207	DataFort
+34665	Petersburg Internet Network (PIN VDS)
+34959	PROCLOUD
+35278	Sprinthost.ru
+35295	RU-CENTER
+35569	RU-CENTER
+39424	Protocloud Plus
+39494	RU-CENTER
+39561	REG.RU
+39741	Data-centr Ekaterinburg
+40966	Web Hosting
+41535	Astra Cloud
+41722	Miran
+42399	RU-CENTER
+42751	RU-CENTER
+43146	REG.RU
+43226	Data Storage Center (SafeData)
+43297	VDS-Telecom
+43298	Storm Networks
+43362	Hosting Ltd
+43489	RU-CENTER
+43741	Seti Weba
+44050	Petersburg Internet Network (PIN VDS)
+44068	Petersburg Internet Network (PIN VDS)
+44094	Webhost1
+44112	SpaceWeb
+44128	Internet-Pro (NetAngels)
+44428	Host Expert
+44467	Rostelecom
+44556	DDoS-Guard
+44677	МТС
+44731	МТС
+44812	IP Server
+44964	Data Planet
+45054	Petersburg Internet Network (PIN VDS)
+47278	ММТС-9
+47385	RU-CENTER
+47440	Business System Telehouse
+47541	VK
+47542	VK
+47577	Pravilnyy Hosting
+47595	RU-CENTER
+47764	VK
+47934	Citytelecom
+48018	Fornex Hosting S.L.
+48076	Start2 (NetRack)
+48096	Enterprise Cloud (ITGRAD)
+48219	3data
+48282	VDSina
+48287	RU-CENTER
+48699	Data Pool
+48781	AVK-computer (hoster.ru)
+48989	Cluster
+49063	Data Storage Center (SafeData)
+49352	REG.RU
+49395	RTCloud
+49404	Russian Servers
+49505   Selectel
+49612	DDoS-Guard
+49693	Best-Hoster Group
+49797	VK
+49834	Best Hosting Company
+49988	VK
+50011	МТС
+50037	Server-Kursk
+50149	Selectel
+50166	RTCloud
+50313	TeslaTel
+50340	Selectel
+50406	МТС
+50465	IQHost
+50797	Hot-Host
+51115	HLL
+51444	IT Lite (Third DC)
+51520	Datalogika
+51698	ActiveHost
+51783	The Center of Dedicated Servers
+51789	Timeweb
+52086	Osnova Data Net (CoreDataNet)
+56694	Smart Ape
+56864	WellServer
+57193	Ruweb
+57271	BitWeb
+57363	CDNvideo
+57494	Adman
+57724	DDoS-Guard
+57973	VK
+58155	WebDepo
+58292	Technology Cloud
+59504	VPSville
+59627	Docker
+60062	3data
+60084	Selectel
+60162	Sibintek Data Center
+60299	ММТС-9
+60338	Citytelecom
+60373	Miran
+60490	МТС
+60797	Data Storage Center (SafeData)
+60863	VK
+60878	RTCloud
+61111	RTCloud
+61400	Start2 (NetRack)
+61976	Selectel
+62004	Virtualization Technology Center (CloudPro)
+62010	3data
+62082	Hostland
+62243	VK
+196750	Seti Weba
+197531	Server Plus
+197695	REG.RU
+198610	Beget
+198769	3data
+199000	Cloudy Information Systems
+199067	Cloud (Cloud LLC)
+199274	Serveroid
+199295	VK
+199427	DataHarbour
+199728	DataLine
+199860	Atomdata
+200044	Stack Group
+200161	DataPro
 200350	Yandex.Cloud
+200563	Sprinthost.ru
+201009	Centre of Server Systems
+201499	Sprinthost.ru
+201972	REG.RU
+201974	Cloud Solutions
+202104	Server Plus
+202290	IK Host
+202804	MegaFon
+202984	Team-Host
+203049	DataPro
+203748	Enterprise Cloud (ITGRAD)
+203749	O2 Cloud
+204014	IT Lite (Third DC)
+204039	Citytelecom
+204040	Citytelecom
+204041	Citytelecom
+204049	3data
+204338	IT Lite (Third DC)
+204459	3data
+204490	Kontel
+204520	Cloudy Information Systems
+204656	ServiceCloud
+204665	3data
+204720	Global Cloud Network
+204825	Citytelecom
+204916	VPSville
+205952	Astra Cloud
+205954	Data Storage Center (SafeData)
+206805	T1 Cloud
+206812	REG.RU
+206873	GalaxyData
+207005	NeoCloud
+207581	VK
+207651	VDSina
+207759	Cloudium
+207970	VK
+208349	O2 Cloud
+208456	ITGlobal.com
+208502	Data Storage Center (SafeData)
+208677	Cloud.ru
+208777	Lankey
+208981	Data Center
+209024	МТС
+209133	Data Hall
+209207	Digital Hosting Provider
+209361	Data-centr Ekaterinburg
+209805	SBCloud
+209930	DataSpace
+209974	ITGlobal.com
+210071	Webget
+210079	EuroByte
+210200	Data Storage Center (SafeData)
+210644	AEZA
+210656	Yandex.Cloud
+210756	EdgeCenter
+210931	VDS-Telecom
+211027	VPSville
+211183	AdminVPS
+211406	Cloud Provider
+211642	AdminVPS
+211933	O2 Cloud
+211963	VK
+212441	Cloud Assets
+212670	DataFort
+212675	ITGlobal.com
+213235	VK
+213393	Data Storage Center (SafeData)
+213533	Beget
+214063	Data Center
+214186	Intelion Cloud
+214719	DZHIBIEN HOST
+214817	Atomdata
+214822	MT FINANCE
+214856	ITGlobal.com
 215013	Yandex.Cloud
+215031	Uni-Web
+215037	DataRu Oblako
+215346	Big Data Host
+215376	ML Cloud
+215601	Innovative IT Solutions (AllHostings)
+216201	Cloud Solutions
+216218	Data-1
+216246	AEZA
+216322	Atomdata Innopolis
+216334	New Hosting Technologies (LandVPS)
+216365	Cloud Solutions
+216368	Petersburg Internet Network (PIN VDS)
+218523	Cloud Facilities
+218618	DataSpace
+219089	M-Cloud
+219305	Elena Hosting
+219318	Elastichosting
